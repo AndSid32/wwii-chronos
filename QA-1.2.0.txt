@@ -1,0 +1,7 @@
+en: timeline events=252; unique ids=252; unique slugs=252
+en: dated article pages=252; partial-date industry pages=18; materials=270
+de: timeline events=252; unique ids=252; unique slugs=252
+de: dated article pages=252; partial-date industry pages=18; materials=270
+uk: timeline events=252; unique ids=252; unique slugs=252
+uk: dated article pages=252; partial-date industry pages=18; materials=270
+Ukrainian events.json preserved byte-for-byte from 1.1.0: PASS

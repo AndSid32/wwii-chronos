@@ -1,0 +1,145 @@
+{
+  "gb": {
+    "name": "United Kingdom",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom.svg",
+    "file": "assets/flags/gb.svg",
+    "review": "simple-vector-reference"
+  },
+  "us": {
+    "name": "United States · 48 stars",
+    "validFrom": "1912-07-04",
+    "validTo": "1959-07-03",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_(1912-1959).svg",
+    "file": "assets/flags/us.svg",
+    "review": "simple-vector-reference"
+  },
+  "jp": {
+    "name": "Japan",
+    "validFrom": "1870-02-27",
+    "validTo": "1999-08-12",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan_(1870–1999).svg",
+    "file": "assets/flags/jp.svg",
+    "review": "simple-vector-reference"
+  },
+  "pl": {
+    "name": "Poland",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg",
+    "file": "assets/flags/pl.svg",
+    "review": "simple-vector-reference"
+  },
+  "fi": {
+    "name": "Finland",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg",
+    "file": "assets/flags/fi.svg",
+    "review": "simple-vector-reference"
+  },
+  "no": {
+    "name": "Norway",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg",
+    "file": "assets/flags/no.svg",
+    "review": "simple-vector-reference"
+  },
+  "dk": {
+    "name": "Denmark",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg",
+    "file": "assets/flags/dk.svg",
+    "review": "simple-vector-reference"
+  },
+  "fr": {
+    "name": "French tricolour · political affiliation not specified",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+    "file": "assets/flags/fr.svg",
+    "review": "simple-vector-reference",
+    "caveat": "The French tricolour does not distinguish Vichy France from Free France; attribution must be checked for each event."
+  },
+  "gr": {
+    "name": "Greece · national flag",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+    "file": "assets/flags/gr.svg",
+    "review": "simple-vector-reference"
+  },
+  "at": {
+    "name": "Austria · pre-war flag",
+    "validFrom": "1938-01-01",
+    "validTo": "1938-03-12",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg",
+    "file": "assets/flags/at.svg",
+    "review": "simple-vector-reference"
+  },
+  "cz": {
+    "name": "Czechoslovakia",
+    "validFrom": "1938-01-01",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Czechoslovakia.svg",
+    "file": "assets/flags/cz.svg",
+    "review": "simple-vector-reference"
+  },
+  "yu": {
+    "name": "Kingdom of Yugoslavia · pre-war tricolour",
+    "validFrom": "1938-01-01",
+    "validTo": "1945-11-29",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Yugoslavia_(1918–1941).svg",
+    "file": "assets/flags/yu.svg",
+    "review": "simple-vector-reference"
+  },
+  "de": {
+    "name": "Germany — state flag 1935–1945",
+    "validFrom": "1935-09-15",
+    "validTo": "1945-05-08",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Germany_(1935–1945).svg",
+    "file": "assets/flags/de.svg",
+    "review": "locally-rendered-vector; historical-visual-review-recommended",
+    "delivery": "local-offline"
+  },
+  "su": {
+    "name": "USSR — flag 1936–1955",
+    "validFrom": "1936-12-05",
+    "validTo": "1955-08-19",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(1936_–_1955).svg",
+    "file": "assets/flags/su.svg",
+    "review": "locally-rendered-vector; historical-visual-review-recommended",
+    "delivery": "local-offline"
+  },
+  "it": {
+    "name": "Kingdom of Italy — historical state flag",
+    "validFrom": "1861-03-17",
+    "validTo": "1946-06-18",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1861–1946).svg",
+    "file": "assets/flags/it.svg",
+    "review": "locally-rendered-vector; historical-visual-review-recommended",
+    "delivery": "local-offline",
+    "caveat": "After September 1943, different Italian political and military entities existed; the Kingdom of Italy flag must not be attributed to the Italian Social Republic."
+  },
+  "ca": {
+    "name": "Canada — Canadian Red Ensign 1921–1957",
+    "validFrom": "1921-11-26",
+    "validTo": "1957-01-01",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(1921–1957).svg",
+    "file": "assets/flags/ca.svg",
+    "review": "locally-rendered-vector; historical-visual-review-recommended",
+    "delivery": "local-offline"
+  },
+  "au": {
+    "name": "Australia — 1908 pattern national flag",
+    "validFrom": "1908-12-08",
+    "validTo": "1946-12-31",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Australia.svg",
+    "file": "assets/flags/au.svg",
+    "review": "locally-rendered-vector; historical-visual-review-recommended",
+    "delivery": "local-offline"
+  }
+}
