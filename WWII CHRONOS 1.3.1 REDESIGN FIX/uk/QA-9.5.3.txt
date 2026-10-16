@@ -1,0 +1,7 @@
+Browser smoke check using Chromium with HTML and local scripts injected into a test document (local file URLs blocked):
+PASS: scale selector Years → Months → Weeks → Years → Months; SVG viewport rebuilds.
+PASS: click event marker in Years switches to Weeks.
+PASS: dispatch click on individual marker in Months switches to Weeks.
+PASS: JavaScript syntax check (node --check).
+NOT VERIFIED: Safari, touch devices, full end-to-end network/file navigation.
+Note: Browser tests use inlined local assets because navigation to file:// was blocked by environment policy.

@@ -1,0 +1,24 @@
+# Exclude development and repository metadata from public static assets
+**/.git
+**/.git/**
+.git
+.git/**
+**/.wrangler
+**/.wrangler/**
+.wrangler
+.wrangler/**
+**/.DS_Store
+**/node_modules
+**/node_modules/**
+**/*.md
+**/*.txt
+!robots.txt
+**/*.log
+**/*.map
+sitemap-template.xml
+robots-template.txt
+.gitignore
+.assetsignore
+wrangler.jsonc
+package.json
+package-lock.json

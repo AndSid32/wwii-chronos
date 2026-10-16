@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ww2.recallecho.com/sitemap.xml

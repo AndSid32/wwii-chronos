@@ -1,0 +1,124 @@
+{
+  "original": 144,
+  "after": 131,
+  "pairs": [
+    {
+      "kept_id": 16,
+      "removed_id": 96,
+      "date": "1940-09-27",
+      "title": "Троїстий пакт",
+      "kept_slug": "1940-09-27-016",
+      "redirect_slug": "1940-09-27-096",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 17,
+      "removed_id": 97,
+      "date": "1940-10-28",
+      "title": "Напад Італії на Грецію",
+      "kept_slug": "1940-10-28-017",
+      "redirect_slug": "1940-10-28-097",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 21,
+      "removed_id": 98,
+      "date": "1941-04-06",
+      "title": "Вторгнення в Югославію та Грецію",
+      "kept_slug": "1941-04-06-021",
+      "redirect_slug": "1941-04-06-098",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 22,
+      "removed_id": 99,
+      "date": "1941-05-20",
+      "title": "Битва за Крит",
+      "kept_slug": "1941-05-20-022",
+      "redirect_slug": "1941-05-20-099",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 25,
+      "removed_id": 101,
+      "date": "1941-09-08",
+      "title": "Початок блокади Ленінграда",
+      "kept_slug": "1941-09-08-025",
+      "redirect_slug": "1941-09-08-101",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 33,
+      "removed_id": 103,
+      "date": "1942-02-15",
+      "title": "Падіння Сінгапуру",
+      "kept_slug": "1942-02-15-033",
+      "redirect_slug": "1942-02-15-103",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 35,
+      "removed_id": 104,
+      "date": "1942-04-18",
+      "title": "Рейд Дуліттла",
+      "kept_slug": "1942-04-18-035",
+      "redirect_slug": "1942-04-18-104",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 46,
+      "removed_id": 107,
+      "date": "1943-04-19",
+      "title": "Повстання у Варшавському гетто",
+      "kept_slug": "1943-04-19-046",
+      "redirect_slug": "1943-04-19-107",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 47,
+      "removed_id": 108,
+      "date": "1943-05-13",
+      "title": "Капітуляція Осі в Тунісі",
+      "kept_slug": "1943-05-13-047",
+      "redirect_slug": "1943-05-13-108",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 54,
+      "removed_id": 111,
+      "date": "1944-01-22",
+      "title": "Висадка біля Анціо",
+      "kept_slug": "1944-01-22-054",
+      "redirect_slug": "1944-01-22-111",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 63,
+      "removed_id": 113,
+      "date": "1944-08-15",
+      "title": "Висадка союзників у Південній Франції",
+      "kept_slug": "1944-08-15-063",
+      "redirect_slug": "1944-08-15-113",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 65,
+      "removed_id": 115,
+      "date": "1944-10-20",
+      "title": "Висадка на Лейте",
+      "kept_slug": "1944-10-20-065",
+      "redirect_slug": "1944-10-20-115",
+      "paragraphs": 4
+    },
+    {
+      "kept_id": 55,
+      "removed_id": 112,
+      "date": "1944-01-27",
+      "title": "Прорив блокади до повного зняття: Ленінград",
+      "kept_slug": "1944-01-27-055",
+      "redirect_slug": "1944-01-27-112",
+      "paragraphs": 4
+    }
+  ],
+  "note": "Editorial consolidation; original duplicate paths use static HTML redirects."
+}

@@ -1,0 +1,21 @@
+{
+  "previous_count": 131,
+  "exact_duplicates_in_source_removed": [],
+  "new_world_events": 6,
+  "total_count": 137,
+  "duplicate_screenshot_dates": {
+    "1941-04-06": [
+      "1941-04-06-021"
+    ],
+    "1941-05-20": [
+      "1941-05-20-022"
+    ],
+    "1941-09-08": [
+      "1941-09-08-025"
+    ],
+    "1944-10-20": [
+      "1944-10-20-065"
+    ]
+  },
+  "note": "v9.0 source JSON and events.js each had one entry for listed dates. Stale browser cache or old build likely explained screenshots; cache-busting is applied. Semantic near-duplicates not automatically deleted."
+}
