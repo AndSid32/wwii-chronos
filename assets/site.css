@@ -362,3 +362,16 @@ footer{border-top:1px solid var(--glass-border)}
 .chronos-region-map:not(.chronos-region-map-small) > figcaption{
   padding:8px 12px 10px;
 }
+
+/* UI-022: balanced article maps; compact previews remain unchanged. */
+.chronos-region-map:not(.chronos-region-map-small){
+  width:100%;
+  max-width:800px;
+  margin:14px auto 20px;
+}
+.chronos-region-map:not(.chronos-region-map-small) > img{
+  display:block;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+}
