@@ -441,3 +441,17 @@ html:has(link[rel="canonical"][href*="/events/"]) .article .chronos-region-map f
 @media (prefers-reduced-transparency:reduce){
   html:has(link[rel="canonical"][href*="/events/"]) .article {-webkit-backdrop-filter:none;backdrop-filter:none}
 }
+
+
+/* UI-025B — historical article readability */
+body:has(.article-nav) .article p {
+    font-size: 19px;
+    line-height: 1.8;
+}
+
+@media (max-width: 760px) {
+    body:has(.article-nav) .article p {
+        font-size: 17px;
+        line-height: 1.8;
+    }
+}
