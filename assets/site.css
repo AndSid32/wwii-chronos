@@ -408,3 +408,36 @@ footer{border-top:1px solid var(--glass-border)}
 @media (prefers-reduced-transparency:reduce){
   .feed > .card { -webkit-backdrop-filter:none;backdrop-filter:none; }
 }
+/* UI-024 — parchment glass on historical event ARTICLE pages only.
+   Scope: pages whose canonical URL includes /events/ (en, uk, de).
+   Does not change timeline cards, WWII Explained, maps or layouts. */
+html:has(link[rel="canonical"][href*="/events/"]) .article {
+  color:#382b20;
+  background-color:#d6bc91;
+  background-image:
+    linear-gradient(115deg,rgba(255,245,216,.30),rgba(255,245,216,.10) 44%,rgba(108,72,37,.13)),
+    radial-gradient(ellipse at 50% 40%,transparent 40%,rgba(113,76,38,.13)),
+    url("textures/parchment-grain.png");
+  background-repeat:no-repeat,no-repeat,repeat;
+  background-size:100% 100%,100% 100%,512px 512px;
+  border-color:rgba(126,90,53,.45);
+  box-shadow:0 16px 44px rgba(0,0,0,.24),inset 0 1px 0 rgba(255,247,220,.43);
+  -webkit-backdrop-filter:blur(14px) saturate(93%);
+  backdrop-filter:blur(14px) saturate(93%);
+}
+html:has(link[rel="canonical"][href*="/events/"]) .article h1,
+html:has(link[rel="canonical"][href*="/events/"]) .article h2,
+html:has(link[rel="canonical"][href*="/events/"]) .article h3,
+html:has(link[rel="canonical"][href*="/events/"]) .article p,
+html:has(link[rel="canonical"][href*="/events/"]) .article strong,
+html:has(link[rel="canonical"][href*="/events/"]) .article .lead {color:#382b20}
+html:has(link[rel="canonical"][href*="/events/"]) .article .meta,
+html:has(link[rel="canonical"][href*="/events/"]) .article .eyebrow,
+html:has(link[rel="canonical"][href*="/events/"]) .article .kicker {color:#6d5440}
+html:has(link[rel="canonical"][href*="/events/"]) .article a {color:#754229;text-decoration-color:rgba(117,66,41,.58)}
+html:has(link[rel="canonical"][href*="/events/"]) .article a:hover {color:#512919}
+html:has(link[rel="canonical"][href*="/events/"]) .article .chronos-region-map {border-color:rgba(96,68,41,.38);background:rgba(255,244,214,.17)}
+html:has(link[rel="canonical"][href*="/events/"]) .article .chronos-region-map figcaption {color:#624a35}
+@media (prefers-reduced-transparency:reduce){
+  html:has(link[rel="canonical"][href*="/events/"]) .article {-webkit-backdrop-filter:none;backdrop-filter:none}
+}
