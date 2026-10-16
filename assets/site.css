@@ -120,7 +120,7 @@
 
 /* MAP-001: authentic monochrome coast silhouettes, scoped to radio dial and event content. */
 .radio-stage{position:relative;isolation:isolate}
-.radio-stage::before{content:"";position:absolute;inset:0;background:url("maps/world.webp") center / 100% 100% no-repeat;opacity:.10;pointer-events:none;z-index:0}
+.radio-stage::before{content:"";position:absolute;inset:0;background:url("maps/world.webp") center center / cover no-repeat;opacity:.10;pointer-events:none;z-index:0}
 .radio-fixed-labels,.radio-scroll{position:relative;z-index:1}
 .chronos-region-map{margin:14px 0 20px;border:1px solid var(--line);background:rgba(135,125,96,.055);padding:8px;max-width:440px}
 .chronos-region-map img{display:block;width:100%;height:155px;object-fit:contain;opacity:.64}
